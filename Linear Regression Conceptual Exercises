@@ -1,0 +1,11 @@
+## KNN classifer vs KNN regression methods
+
+A KNN classifer uses labelled data to classify new data.
+
+It does this by calculating the K nearest neighbours. Then cycling through each of the classes we calculate the probability of it being each of those classes. Then the highest probability is choosen.
+
+KNN regression gives the average quantitative value of K nearest values.
+
+
+
+## 
